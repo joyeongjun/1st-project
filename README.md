@@ -1,4 +1,4 @@
-# 🎧 DJing | 미디어 플레이어
+# 🎧 1차 프로젝트 | DJing 미디어 플레이어
 
 **두 곡을 동시에 재생하고, 파형을 보면서 재생 위치와 음색을 조절하는 C# WinForms 팀 프로젝트입니다.** DJ 믹싱과 함께 음원 검색·업로드, 좋아요, 댓글, 재생목록 기능을 제공합니다.
 
@@ -99,7 +99,7 @@ Windows에서 .NET SDK, **.NET 6 Windows Desktop Runtime**과 오디오 출력 �
 공개본에 추가한 `--mixing` 옵션으로 DB 설정 없이 DJ 믹싱 화면을 열 수 있습니다.
 
 ```powershell
-git clone https://github.com/joyeongjun/1-.git djing
+git clone https://github.com/joyeongjun/1st-project.git djing
 cd djing
 dotnet run --project src/DJing.csproj -- --mixing
 ```
